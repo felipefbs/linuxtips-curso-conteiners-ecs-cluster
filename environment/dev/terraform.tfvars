@@ -11,3 +11,6 @@ ssm_subnet_public_1  = "/linuxtips-vpc/vpc/subnet_public_1a"
 ssm_subnet_public_2  = "/linuxtips-vpc/vpc/subnet_public_1b"
 ssm_subnet_public_3  = "/linuxtips-vpc/vpc/subnet_public_1c"
 ssm_vpc_id           = "/linuxtips-vpc/vpc/vpc_id"
+
+load_balancer_internal = false
+load_balancer_type     = "application"
