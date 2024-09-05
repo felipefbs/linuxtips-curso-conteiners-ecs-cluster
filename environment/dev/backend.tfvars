@@ -1,3 +1,3 @@
 bucket = "linuxtips.containers.statefiles"
 key    = "ecs/dev/state"
-region = "us-easet-1"
+region = "us-east-1"
